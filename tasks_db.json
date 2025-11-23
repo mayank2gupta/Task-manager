@@ -1,0 +1,156 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Set up environment",
+            "description": "Install Node.js, npm, and git",
+            "completed": true,
+            "creation_date": "01/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 2,
+            "title": "Install Express",
+            "description": "Install Express",
+            "completed": true,
+            "creation_date": "02/01/2025",
+            "priority": 2
+        },
+        {
+            "id": 3,
+            "title": "Install nodemon",
+            "description": "Install nodemon as a development dependency",
+            "completed": true,
+            "creation_date": "12/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 4,
+            "title": "Install Express",
+            "description": "Install Express",
+            "completed": false,
+            "creation_date": "05/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 5,
+            "title": "Install Mongoose",
+            "description": "Install Mongoose",
+            "completed": false,
+            "creation_date": "20/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 6,
+            "title": "Install Morgan",
+            "description": "Install Morgan",
+            "completed": false,
+            "creation_date": "07/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 7,
+            "title": "Install body-parser",
+            "description": "Install body-parser",
+            "completed": false,
+            "creation_date": "10/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 8,
+            "title": "Install cors",
+            "description": "Install cors",
+            "completed": false,
+            "creation_date": "31/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 9,
+            "title": "Install passport",
+            "description": "Install passport",
+            "completed": false,
+            "creation_date": "25/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 10,
+            "title": "Install passport-local",
+            "description": "Install passport-local",
+            "completed": false,
+            "creation_date": "25/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 11,
+            "title": "Install passport-local-mongoose",
+            "description": "Install passport-local-mongoose",
+            "completed": false,
+            "creation_date": "16/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 12,
+            "title": "Install express-session",
+            "description": "Install express-session",
+            "completed": false,
+            "creation_date": "08/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 13,
+            "title": "Install connect-mongo",
+            "description": "Install connect-mongo",
+            "completed": false,
+            "creation_date": "09/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 14,
+            "title": "Install dotenv",
+            "description": "Install dotenv",
+            "completed": false,
+            "creation_date": "13/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 15,
+            "title": "Install jsonwebtoken",
+            "description": "Install jsonwebtoken",
+            "completed": false,
+            "creation_date": "27/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 16,
+            "title": "Install Express",
+            "description": "Install Express",
+            "completed": false,
+            "creation_date": "15/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 17,
+            "title": "Install vs code",
+            "description": "Install Express",
+            "completed": false,
+            "creation_date": "23/11/2025",
+            "priority": 6
+        },
+        {
+            "id": 17,
+            "title": "Install vs code",
+            "description": "Install Express",
+            "completed": false,
+            "creation_date": "10/01/2025",
+            "priority": 1
+        },
+        {
+            "id": 17,
+            "title": "Install vs code",
+            "description": "Install Express",
+            "completed": false,
+            "creation_date": "23/11/2025",
+            "priority": 5
+        }
+    ]
+}
